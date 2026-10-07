@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings>
+  <Server>safderhussain\sqlexpress</Server>
+  <DBName>ASL</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>sa123</DBPassword>
+  <DBAuthentication>Windows</DBAuthentication>
+</AppSettings>
